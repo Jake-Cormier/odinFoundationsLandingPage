@@ -1,0 +1,18 @@
+*{
+    font-family: roboto;
+}
+
+.header-container{
+    background-color: #1f2937;
+    display: flex;
+}
+
+.header-link{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logotitle {
+    color: #f9faf8;
+    font-size: 24px;
+}
